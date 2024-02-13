@@ -1,1 +1,1 @@
-This file is for setting in .vimrc
+This file is for settings in .vimrc
